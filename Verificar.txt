@@ -1,4 +1,0 @@
-Acesso ao Portal do Azure com a subscription ativada
-
-extenções do VSCode
-- svs-code-styledcomponents
